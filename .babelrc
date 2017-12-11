@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "next/babel",
+    "react-native-stage-0/decorator-support"
+  ],
+  "plugins": [
+    "react-native-web/babel"
+  ]
+}
